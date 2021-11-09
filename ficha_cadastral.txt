@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nome: Carlos Henrique Ciccolani.
 
 Endereço:
@@ -31,3 +32,26 @@ Nome: Sandra
 Grau de parentesco: Esposa
 
 
+=======
+Nome: Carlos Henrique Ciccolani.
+
+Endereço:
+	Rua Antônio Francisco de Andrade
+	Número: 421
+	Complemento: Apartamento 101
+	Bairro: Jardim Proença
+	Cep: 16026-140
+	Cidade: Campinas/SP
+
+Telefones:
+	Residencial: (19) 3326-4809
+	Celular: (19) 99273-0379 (WhatsApp)
+
+Recados
+
+1-) 
+Nome: Antonieta
+Grau de parentesco: Mãe
+Telefone fixo: (19) 3326-4809
+
+>>>>>>> 5883a1b48d6049c06e9e13a29f09fd0d9cc9bf20
