@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 Nome: Carlos Henrique Ciccolani.
 
----Endereço:
 	Rua Antônio Francisco de Andrade
 	Número: 421
 	Complemento: Apartamento 101
