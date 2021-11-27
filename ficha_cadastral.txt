@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Nome: Carlos Henrique Ciccolani.
 
 	Rua Antônio Francisco de Andrade
@@ -8,6 +7,7 @@ Nome: Carlos Henrique Ciccolani.
 	Cep: 16026-140
 	Cidade: Campinas
 	UF: SP
+        ----------------------------------
 
 Telefones:
 	Residencial: (19) 3326-4809
